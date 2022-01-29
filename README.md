@@ -29,13 +29,13 @@ This is the official code for ICLR'22 paper "Self-Ensemble Adversarial Training"
   $ CUDA_VISIBLE_DEVICES={your GPU number} python3 seat.py --arch 'WRN'
 ```
 
-Then, it will automatically run all the robustness evaluation in our paper, including NAT, PGD20/100, MIM, CW, $APGD_{ce}$, $APGD_{dlr}$, $APGD_{t}$​, $FAB_{t}$, $Square$ and AutoAttack.
+Then, it will automatically run all the robustness evaluation in our paper, including NAT, PGD20/100, MIM, CW, APGD<sub>ce</sub>, APGD<sub>dlr</sub>, APGD<sub>t</sub>, FAB<sub>t</sub>, Square and AutoAttack.
 
 
 
 ## Citation
 
-If you use this code or idea in your work, please consider citing our paper:
+If you are interested in our work, please consider citing our paper:
 
 ```
 @inproceedings{
