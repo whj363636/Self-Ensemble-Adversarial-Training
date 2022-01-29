@@ -38,5 +38,12 @@ Then, it will automatically run all the robustness evaluation in our paper, incl
 If you use this code or idea in your work, please consider citing our paper:
 
 ```
-
+@inproceedings{
+wang2022selfensemble,
+title={Self-ensemble Adversarial Training for Improved Robustness},
+author={Hongjun Wang and Yisen Wang},
+booktitle={International Conference on Learning Representations},
+year={2022},
+url={https://openreview.net/forum?id=oU3aTsmeRQV}
+}
 ```
