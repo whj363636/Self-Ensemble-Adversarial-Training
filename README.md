@@ -1,6 +1,6 @@
 # SEAT (Self-Ensemble Adversarial Training)
 
-This is the official code for ICLR'22 paper "Self-Ensemble Adversarial Training"
+This is the official code for ICLR'22 paper "Self-Ensemble Adversarial Training for Improved Robustness"
 
 
 
