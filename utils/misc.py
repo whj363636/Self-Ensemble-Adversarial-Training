@@ -15,7 +15,7 @@ import torch.nn.functional as F
 import torch.nn.init as init
 from torch.autograd import Variable
 
-__all__ = ['get_mean_and_std', 'init_params', 'mkdir_p', 'trades_loss', 'mart_loss', 'save_checkpoint', 'torch_accuracy', 'AverageMeter']
+__all__ = ['get_mean_and_std', 'init_params', 'mkdir_p', 'save_checkpoint', 'torch_accuracy', 'AverageMeter']
 
 
 def get_mean_and_std(dataset):
